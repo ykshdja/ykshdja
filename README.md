@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=120&section=header&text=Yash%20Khanduja&fontSize=36&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=120&section=header&text=Yash%20Khanduja&fontSize=36&fontColor=ffffff" />
 </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=eeeeee&height=2&section=header" />
 
