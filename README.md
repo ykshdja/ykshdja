@@ -5,8 +5,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=eeeeee&height=2&section=header" />
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ykshdja)
-
 <p align="center">
   <sub>Last manually updated: 2025-05-07</sub>
 </p>
