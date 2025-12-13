@@ -5,9 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=eeeeee&height=2&section=header" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ykshdja&label=Profile%20Views&color=4caf50&style=flat-square" />
-</p>
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ykshdja)
 
 <p align="center">
   <sub>Last manually updated: 2025-05-07</sub>
