@@ -6,13 +6,7 @@
   <sub>Last manually updated: 2025-05-07</sub>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ykshdja&show_icons=true&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykshdja&layout=compact&hide_border=true" />
-</p>
 
 ---
 
