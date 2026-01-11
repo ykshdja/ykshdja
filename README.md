@@ -6,6 +6,10 @@
   <sub>Last manually updated: 2025-05-07</sub>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ykshdja?style=flat-square&logo=github&label=Total%20Stars" />
+</p>
+![GitHub Repo stars](https://img.shields.io/github/stars/ykshdja/REPO_NAME?style=flat-square)
 
 
 ---
