@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/github/followers/ykshdja?style=flat-square&logo=github&label=Followers" />
 </p>
 
+![Metrics](https://metrics.lecoq.io/ykshdja?template=classic&base=header,activity,community&config.theme=dark)
 
 ---
 
