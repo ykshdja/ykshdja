@@ -3,18 +3,6 @@
 </p>
 
 <p align="center">
-  <sub>Last manually updated: 2025-05-07</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ykshdja?style=flat-square&logo=github&label=Total%20Stars" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ykshdja?style=flat-square&logo=github&label=Total%20Stars" />
-  <img src="https://img.shields.io/codefactor/grade/github/ykshdja/REPO_NAME?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/ykshdja?style=flat-square&logo=github&label=Followers" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/github/stars/ykshdja?style=flat-square&logo=github&label=Stars" />
   <img src="https://img.shields.io/github/followers/ykshdja?style=flat-square&logo=github&label=Followers" />
 </p>
