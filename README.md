@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=120&section=header&text=Yash%20Khanduja&fontSize=36&fontColor=ffffff" />
 </p>
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=eeeeee&height=2&section=header" />
-
 <p align="center">
   <sub>Last manually updated: 2025-05-07</sub>
 </p>
