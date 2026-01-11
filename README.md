@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/github/followers/ykshdja?style=flat-square&logo=github&label=Followers" />
 </p>
 
-![Metrics](https://metrics.lecoq.io/ykshdja?template=classic&base=header,activity,community&config.theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ykshdja&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000" />
+</p>
 
 ---
 
