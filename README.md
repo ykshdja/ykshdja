@@ -11,8 +11,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/stars/ykshdja?style=flat-square&logo=github&label=Total%20Stars" />
   <img src="https://img.shields.io/codefactor/grade/github/ykshdja/REPO_NAME?style=flat-square" />
 </p>
+
+![Codacy grade](https://img.shields.io/codacy/grade/PROJECT_ID?style=flat-square)
 
 ---
 
